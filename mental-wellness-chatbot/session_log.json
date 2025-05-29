@@ -1,0 +1,5482 @@
+[
+    {
+        "timestamp": "2025-05-28T17:05:13.662323",
+        "user_input": "Hmmm, I've gone through a lot today.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.7047705054283142
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:05:39.511787",
+        "user_input": "We sha thank God.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.980791449546814
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:05:51.383203",
+        "user_input": "I'm hungry.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.7146126627922058
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:06:01.105847",
+        "user_input": "I said I'm hungry.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.7077812552452087
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:06:10.973182",
+        "user_input": "How can I be happy?",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.997884213924408
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:06:17.725673",
+        "user_input": "Get out!",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.6664139628410339
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:13:38.034305",
+        "user_input": "I had a lot to do today.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.6520665287971497
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:47.695649",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:48.484722",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:49.236158",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:50.016224",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:50.842328",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:51.607975",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:52.373989",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:53.138341",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:53.915996",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:54.682409",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:55.442385",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:56.188247",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:57.006179",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:57.791516",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:58.547782",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:18:59.298850",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:00.066721",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:00.973556",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:01.727142",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:02.470347",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:03.295071",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:04.050677",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:04.820713",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:05.885521",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:06.636363",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:07.399891",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:08.165133",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:08.984615",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:09.743801",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:10.534646",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:11.293969",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:12.095946",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:12.852003",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:13.587550",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:14.329906",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:15.078457",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:15.831171",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:16.593063",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:17.382330",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:18.148644",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:18.930358",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:19.684285",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:20.434182",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:21.217650",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:22.004412",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:22.777094",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:23.847710",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:24.629262",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:25.540651",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:26.289857",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:27.053299",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:27.835699",
+        "user_input": "I think I'm okay this way.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.99179607629776
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:28.641582",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:29.456176",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:30.254239",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:31.168578",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:31.920443",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:32.723063",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:33.481350",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-28T17:19:34.296734",
+        "user_input": "God is good.",
+        "response": "I'm glad to hear that! How can I assist you further?",
+        "emotions": {
+            "joy": 0.9931265115737915
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:10.318166",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:10.464504",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:10.620110",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:10.770339",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:10.914928",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.066184",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.212383",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.364072",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.521872",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.675469",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.828140",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:11.976795",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:12.120843",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:12.267191",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:12.418320",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:12.566432",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:12.726396",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:12.881789",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:13.035439",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:13.201393",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:13.367092",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:13.520372",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:13.676693",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:13.842028",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.009834",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.174892",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.332634",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.480295",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.631188",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.787861",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:14.942773",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:15.104277",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:15.264993",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:15.423302",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:15.591101",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:15.773715",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:15.923762",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.069543",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.216960",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.357987",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.501961",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.651268",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.798917",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:16.943041",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.089640",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.236055",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.379829",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.523671",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.669252",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.813426",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:17.958803",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:18.103653",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:18.258548",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:18.420816",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:18.579249",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:18.736466",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:18.900137",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.048900",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.195861",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.340010",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.487316",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.640447",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.790430",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:19.947804",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:20.098701",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:20.257253",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:20.415835",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:20.574062",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:20.728765",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:20.881754",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.029259",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.179769",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.329008",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.478001",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.624857",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.768264",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:21.914513",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.060053",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.202628",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.349713",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.494494",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.637829",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.787420",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:22.937200",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.085403",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.235436",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.386182",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.539596",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.688840",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.832019",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:23.981547",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.123150",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.270876",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.414697",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.558711",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.702116",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.844723",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:24.993858",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:25.140458",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:25.284847",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:25.432946",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:25.597435",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:25.748636",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:25.898348",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.047358",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.196134",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.344352",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.489832",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.635025",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.785466",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:26.932097",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.083674",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.233029",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.382368",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.526558",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.672484",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.817084",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:27.963932",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:28.115113",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:28.259020",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:28.409684",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:28.558332",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:28.732006",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:28.896908",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.041517",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.198732",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.346688",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.491796",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.642317",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.799310",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:29.951237",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.101986",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.247451",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.398010",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.540407",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.682681",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.832376",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:30.977453",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:31.129578",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:31.274589",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:31.420878",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:31.563596",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:31.709638",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:31.852897",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.000372",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.145294",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.287138",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.432128",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.580870",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.723695",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:32.880001",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.049107",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.208972",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.369056",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.525114",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.678942",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.834127",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:33.991583",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:34.146394",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:34.298832",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:34.453945",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:34.613569",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:34.769376",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:34.924865",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:35.075476",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:35.233033",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:35.401566",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:35.561756",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:35.708016",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:35.855368",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.009101",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.155384",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.304467",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.452889",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.609532",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.758624",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:36.902731",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.051992",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.197446",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.344603",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.491009",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.640106",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.788591",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:37.937416",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.083968",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.246665",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.399070",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.556390",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.701091",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.844530",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:38.993634",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:39.141201",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:39.292706",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:39.454527",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:39.604787",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:39.752274",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:39.898741",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.046648",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.189057",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.335760",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.483866",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.630511",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.774795",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:40.921764",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.067955",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.218350",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.366559",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.518217",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.671482",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.819985",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:41.968531",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:42.122828",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:42.278195",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:42.433842",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:42.587440",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:42.743881",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:42.903096",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.074440",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.233942",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.393200",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.547131",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.699368",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.849117",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:43.995098",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:44.146855",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:44.309837",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:44.469752",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:44.632127",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:44.786083",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:44.951404",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:45.111559",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:45.265681",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:45.420378",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:45.573339",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:45.724140",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:45.870134",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:46.050346",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:46.211532",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:46.385481",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:46.573608",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:46.755699",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:46.939691",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:47.107481",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:47.294311",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:47.478092",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:47.643553",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:47.834780",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:47.983788",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:48.134865",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:48.277204",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:48.423997",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:48.573794",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:48.755275",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:48.910444",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.071481",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.225345",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.377141",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.530627",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.681537",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.826407",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:49.984801",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:50.146888",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:50.304118",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:50.457990",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:50.612706",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:50.768543",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:50.920526",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:51.075432",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:51.236521",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:51.395670",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:51.550294",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:51.705343",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:51.854900",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.008726",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.166815",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.318087",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.469961",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.626450",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.779439",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:52.933080",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.084078",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.231759",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.381135",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.526202",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.675666",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.822000",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:53.974593",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:54.124723",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:54.268809",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:54.411623",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:54.569219",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:54.717381",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:54.870567",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.019063",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.164840",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.316423",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.464959",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.616527",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.766198",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:55.913862",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.062882",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.210915",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.359340",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.507025",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.649824",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.797317",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:56.945580",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.093793",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.244711",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.391432",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.535757",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.682484",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.829370",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:57.973225",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:58.120448",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:58.265774",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:58.409877",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:58.562596",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:58.709250",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:58.854186",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.000535",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.148310",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.302274",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.456073",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.605934",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.766671",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:33:59.914879",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.066053",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.211341",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.358585",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.504827",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.652566",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.798161",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:00.943409",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.091747",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.236271",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.383833",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.538814",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.696510",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.848270",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:01.997646",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:02.149704",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:02.303244",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:02.454643",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:02.604505",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:02.752895",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:02.903185",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.050204",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.198749",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.344584",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.491836",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.640589",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.787802",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:03.937036",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.085341",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.230876",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.374801",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.523722",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.678740",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.833501",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:04.985954",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:05.135175",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:05.289175",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:05.440020",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:05.590442",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:05.738567",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:05.882218",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.032664",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.181272",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.326550",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.469513",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.638459",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.782692",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:06.930381",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.077023",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.224214",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.370168",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.521721",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.667893",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.811935",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:07.957265",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:08.107275",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:08.251331",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:08.396417",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:08.544960",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:08.703880",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:08.857724",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.011147",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.157491",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.304667",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.475791",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.644165",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.793418",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:09.939796",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.086354",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.231123",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.379653",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.537397",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.687648",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.834522",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:10.983990",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:11.131932",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:11.280015",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:11.429262",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:11.580085",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:11.738669",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:11.895358",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.055074",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.209509",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.361875",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.514966",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.666752",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.812568",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:12.962479",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:13.109630",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:13.258622",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:13.407554",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:13.554755",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:13.704792",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:13.855280",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.010423",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.166941",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.322275",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.478711",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.635874",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.796964",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:14.953356",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:15.121479",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:15.278359",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:15.433213",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:15.579604",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:15.728406",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:15.878293",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.022605",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.172221",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.323296",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.473398",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.624658",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.769915",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:16.916283",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.062436",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.210912",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.359339",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.507750",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.655612",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.804187",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:17.951481",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.099487",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.246200",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.395687",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.542187",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.688156",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.831242",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:18.988473",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:19.136812",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:19.286561",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:19.436527",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:19.585098",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:19.735473",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:19.883607",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.029234",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.178062",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.330141",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.477840",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.629534",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.777633",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:20.927083",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.075930",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.222348",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.370933",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.517732",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.665090",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.807146",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:21.960529",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:22.106495",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:22.257496",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:22.408768",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:22.558048",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:22.708425",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:22.859624",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.012953",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.167583",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.319195",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.470860",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.621246",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.770066",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:23.920351",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.068088",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.217022",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.365454",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.510826",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.661942",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.809441",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:24.956091",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:25.103893",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:25.254667",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:25.404496",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:25.555089",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:25.705242",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:25.852696",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.000172",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.148822",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.300311",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.448867",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.601017",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.749430",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:26.896662",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.044042",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.191109",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.339619",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.489462",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.638570",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.788157",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:27.939227",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.088916",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.237330",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.387595",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.539046",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.689269",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.840255",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:28.993814",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:29.141312",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:29.298822",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:29.446586",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:29.595225",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:29.740584",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:29.889504",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.035743",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.185115",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.334556",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.489642",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.644954",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.790913",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:30.938698",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:31.084043",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:31.240543",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:31.392645",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:31.555876",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:31.707622",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:31.855737",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.013737",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.173729",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.326615",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.479547",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.631682",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.785175",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:32.937577",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:33.091162",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:33.249893",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:33.419908",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:33.593747",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:33.747207",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:33.904254",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.060926",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.221722",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.366696",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.518888",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.673089",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.833756",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:34.987771",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:35.142201",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:35.292666",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:35.445686",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:35.597868",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:35.750407",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:35.911384",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:36.080612",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:36.229838",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:36.381963",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:36.537467",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:36.686934",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:36.845464",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:37.002235",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:37.154755",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:37.307268",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:37.458381",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:34:37.615748",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:44:47.893569",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:45:06.656851",
+        "user_input": "What do you think I should do?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.9283089637756348
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:45:17.014675",
+        "user_input": "Cn I feel sad?",
+        "response": "I'm sorry you're feeling sad. Remember, it's okay to feel this way. Would you like to talk more about it?",
+        "emotions": {
+            "sadness": 0.9986326098442078
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:45:29.051993",
+        "user_input": "Yes, let's talk about it.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.7806331515312195
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:45:38.631973",
+        "user_input": "No, I don't.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.5856785178184509
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:50:50.422423",
+        "user_input": "I'm feeling Joyful!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9984598159790039
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:51:04.367801",
+        "user_input": "I'm feeling good!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9984095692634583
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:51:18.332170",
+        "user_input": "Nah, not really.",
+        "response": "I'm sorry to hear that. It's okay to feel this way. I'm here to help.",
+        "emotions": {
+            "joy": 0.6466439366340637
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:51:32.950272",
+        "user_input": "No, let's rest.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.8268095254898071
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:51:43.160994",
+        "user_input": "Okay.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.7404574751853943
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:52:55.210174",
+        "user_input": "What's going on?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.6986392736434937
+        }
+    },
+    {
+        "timestamp": "2025-05-29T08:53:26.475047",
+        "user_input": "This is a test.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.5051257014274597
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:09:39.841389",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:09:57.814424",
+        "user_input": "Yes, what's next?",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.8200557827949524
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:19:21.044823",
+        "user_input": "Today would be a great day!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.995662271976471
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:19:35.333097",
+        "user_input": "I need money!",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.6717835664749146
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:25:45.745469",
+        "user_input": "What's good?",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9963188171386719
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:33:10.560147",
+        "user_input": "What's popping?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.40658125281333923
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:33:33.462441",
+        "user_input": "What's good?",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9963188171386719
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:33:55.358229",
+        "user_input": "We good?",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9964058995246887
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:36:25.470359",
+        "user_input": "Okau",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.6969141364097595
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:36:30.819120",
+        "user_input": "Happy!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9967657327651978
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:36:37.531689",
+        "user_input": "No, I don't!",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.6327660083770752
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:36:43.776967",
+        "user_input": "Restful!",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9964630007743835
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:36:49.019618",
+        "user_input": "Hello there!",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.9009602069854736
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:36:57.612442",
+        "user_input": "Hallow!",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.9653688073158264
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:38:10.090674",
+        "user_input": "What's popping?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.40658125281333923
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:38:15.667910",
+        "user_input": "We good?",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9964058995246887
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:54:16.362898",
+        "user_input": "Hello",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.7190548181533813
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:54:26.160332",
+        "user_input": "This is a test.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.5051257014274597
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:54:36.888164",
+        "user_input": "Is it woring?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "fear": 0.40301212668418884
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:54:46.231541",
+        "user_input": "I'm hungry.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.7146126627922058
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:54:52.870231",
+        "user_input": "Would this work?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.9866522550582886
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:54:59.674172",
+        "user_input": "It's not working.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.4983951151371002
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:56:47.112674",
+        "user_input": "asdf",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.8063556551933289
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:56:50.846377",
+        "user_input": "hkl",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.8152787685394287
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:56:53.691630",
+        "user_input": ",/ji;",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.7461957931518555
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:56:56.943486",
+        "user_input": "iufdx",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.49273550510406494
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:56:59.257664",
+        "user_input": "gfnnmdfdf",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.3640282154083252
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:57:02.439707",
+        "user_input": "rfdjn ",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.600325345993042
+        }
+    },
+    {
+        "timestamp": "2025-05-29T09:57:09.803523",
+        "user_input": "It's not working.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.4983951151371002
+        }
+    }
+]

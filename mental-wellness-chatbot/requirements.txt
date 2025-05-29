@@ -1,0 +1,14 @@
+Flask
+nltk
+textblob
+transformers
+torch
+pandas
+matplotlib
+plotly
+streamlit
+numpy
+scikit-learn
+logging
+vaderSentiment
+hf_xet
