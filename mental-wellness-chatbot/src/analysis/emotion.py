@@ -1,5 +1,8 @@
 from transformers import pipeline
 
+
+# ----------------
+
 # Move pipeline creation outside the function for efficiency
 emotion_classifier = pipeline("text-classification", model="bhadresh-savani/roberta-base-emotion", top_k=1)
 

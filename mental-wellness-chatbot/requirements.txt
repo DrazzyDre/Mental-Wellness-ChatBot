@@ -12,3 +12,4 @@ scikit-learn
 logging
 vaderSentiment
 hf_xet
+requests

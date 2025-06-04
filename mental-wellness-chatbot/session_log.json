@@ -5478,5 +5478,317 @@
         "emotions": {
             "anger": 0.4983951151371002
         }
+    },
+    {
+        "timestamp": "2025-05-29T13:41:34.109485",
+        "user_input": "Hello!",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.7009680271148682
+        }
+    },
+    {
+        "timestamp": "2025-05-29T13:41:42.906555",
+        "user_input": "Happy?",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.9976789355278015
+        }
+    },
+    {
+        "timestamp": "2025-05-29T13:41:55.798531",
+        "user_input": "Not too good.",
+        "response": "I'm sorry to hear that. It's okay to feel this way. I'm here to help.",
+        "emotions": {
+            "joy": 0.991096019744873
+        }
+    },
+    {
+        "timestamp": "2025-05-29T13:42:03.605435",
+        "user_input": "Nah!",
+        "response": "I'm sorry to hear that. It's okay to feel this way. I'm here to help.",
+        "emotions": {
+            "joy": 0.6269462704658508
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:12:25.102308",
+        "user_input": "Hello, how's it going today?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "joy": 0.9492591619491577
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:14:21.928264",
+        "user_input": "Hi there, good morning.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.7392753958702087
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:14:51.563694",
+        "user_input": "Hello there, good morning.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:17:44.747256",
+        "user_input": "Hello, good morning.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.6739072799682617
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:18:00.034029",
+        "user_input": "I'm hungry.",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.714613676071167
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:30:31.271166",
+        "user_input": "What's going on?",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.6986381411552429
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:30:41.366659",
+        "user_input": "I'm hungry",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.9642520546913147
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:36:21.930823",
+        "user_input": "I'm hungry",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.9642520546913147
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:36:33.060158",
+        "user_input": "Hello there, good morning.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:39:01.355898",
+        "user_input": "I'm hungry",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.9642520546913147
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:39:09.082704",
+        "user_input": "I'm hungry",
+        "response": "Thank you for sharing. How are you feeling right now?",
+        "emotions": {
+            "anger": 0.9642520546913147
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:39:14.498759",
+        "user_input": "Okay.",
+        "response": "That's wonderful! I'm glad you're feeling joyful. Want to share more?",
+        "emotions": {
+            "joy": 0.7404575347900391
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:39:22.706971",
+        "user_input": "No, I don't want to.",
+        "response": "I'm sorry to hear that. It's okay to feel this way. I'm here to help.",
+        "emotions": {
+            "joy": 0.6658712029457092
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:51:05.073257",
+        "user_input": "Hello there, good morning.",
+        "response": "I am a fan of anime and video games and I am a fan of anime and video games. I am a fan of gaming and video games. I am a fan of video games and I am a fan of video games. I am a fan of video games and I am a fan of video games. I am a fan of video games and I am a fan of video games. I am a fan of video games and I am a fan of video games. I am a fan of video games. I am a fan of video games. I am a fan of video games. I am a fan of video games. I am a fan of video games. I am a fan of video games. I am a fan of video games.",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-03T09:51:18.568230",
+        "user_input": "What's going on?",
+        "response": "I'm worried about how long it will take, but I understand that there is a lot of time to go through that. And I think that's one of the most important things for a new generation of programmers, and I think that's why I'm going to be doing this for a while.\nI think that's one of the biggest things for a new generation of programmers. I think that's one of the biggest things for a new generation of programmers. I think that's one of the most important things for a new generation of programmers. I think that's one of the most important things for a new generation of programmers. I think that's one of the most important things for a new generation of programmers. I think that's one of",
+        "emotions": {
+            "anger": 0.6986381411552429
+        }
+    },
+    {
+        "timestamp": "2025-06-04T11:53:32.216653",
+        "user_input": "Hello there, good morning.",
+        "response": "I'm going to talk about this, and it's a little bit weird, but I'm going to talk about it.\nAssistant: Well I've been speaking with the director of the New Orleans Police Department for three years so I've been trying to get the message out from that one. I don't think there's any specific position for the department that I'm going to ask for.\nAssistant: Well I'll just say that, what I'm doing is the first thing I ask for, and you know, you're going to be in the press the same way that you will be in the press. So it's a very long time, and now I'm going to be interviewing the head of the state's department, and I",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-04T13:30:08.637070",
+        "user_input": "No, I don't want to.",
+        "response": "No, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to.\nAssistant: Yes, I don't want to",
+        "emotions": {
+            "joy": 0.6658712029457092
+        }
+    },
+    {
+        "timestamp": "2025-06-04T13:30:28.548962",
+        "user_input": "What's going on?",
+        "response": "I'm not sure we'll have a lot of time to answer this, but one thing is for sure: It's definitely going to be interesting to see just how strong and powerful the PS4 is in terms of performance.\nAs much as we love the PS4, it's not like we're going to be able to do all our work out on the console. We're going to have a lot of fun playing the game. I'm sure there are a lot of factors that we will be able to look at as well, and I'm sure we will be able to do that.\nYou'll find more about PS4's performance when the PlayStation 4 launches, and what it will look like in the near future.",
+        "emotions": {
+            "anger": 0.6986381411552429
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:39:50.060540",
+        "user_input": "Hello there, good morning.",
+        "response": "Good morning! It's wonderful to connect with you. How are you feeling today? Would you like to take a moment to chat about anything that's on your mind, or is there something specific you'd like to focus on? I'm here to listen and offer support.",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:40:07.807782",
+        "user_input": "It's been quite a day ...",
+        "response": "I'm so sorry to hear that. It can be really overwhelming when things feel like they're not going as planned. Would you like to talk about what's been going on and how you're feeling? Sometimes sharing what's on your mind can help you process and feel a bit better. I'm here to listen and offer support if you need it.",
+        "emotions": {
+            "joy": 0.5207038521766663
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:40:22.461932",
+        "user_input": "Hmmm, I need money.",
+        "response": "It can be really stressful when financial concerns are weighing on your mind. Remember that you're not alone in this feeling, and there are resources available to help.\n\nBefore we dive into potential solutions, can you tell me a bit more about what's going on? What's the main financial concern that's got you feeling stuck? Is it a specific bill, a general lack of savings, or something else entirely?\n\nAlso, have you taken a few deep breaths and reminded yourself that you're capable of getting through this? You've navigated tough situations before, and you can do it again!\n\nLet's work together to brainstorm some ideas and find a way forward.",
+        "emotions": {
+            "joy": 0.6714888215065002
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:46:24.464179",
+        "user_input": "Okay. Thank you.",
+        "response": "You're welcome! It's nice to meet you. I'm here to offer support and guidance to help you navigate any mental wellness challenges you may be facing. Please know that everything we discuss is confidential and a safe space for you to express yourself.\n\nHow have you been feeling lately? Is there something specific that's been on your mind, or would you like to talk about your overall mental health and wellbeing?",
+        "emotions": {
+            "joy": 0.9353919625282288
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:46:46.968774",
+        "user_input": "Hello there, good morning.",
+        "response": "Good morning! I'm so glad you reached out. How are you feeling today? Is there something on your mind that you'd like to talk about?",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:47:05.660328",
+        "user_input": "Nah, not really. Give me words of advise.",
+        "response": "It can be tough to open up sometimes. Remember that you're doing the best you can, and that's something to be proud of. Be kind to yourself and try not to be too hard on yourself, okay?",
+        "emotions": {
+            "joy": 0.7562078237533569
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:55:07.570041",
+        "user_input": "Hello there, good morning.",
+        "response": "Good morning! It's wonderful to start the day with a connection. How are you feeling today? Is there anything on your mind that you'd like to talk about or get off your chest?",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:55:26.817843",
+        "user_input": "I'm just running some tests ...",
+        "response": "I'm happy to help with testing. Go ahead and ask me anything, and I'll respond as a supportive and empathetic chatbot. Remember, this is a safe and non-judgmental space.",
+        "emotions": {
+            "anger": 0.6507943868637085
+        }
+    },
+    {
+        "timestamp": "2025-06-04T15:58:44.457903",
+        "user_input": "Thank you.",
+        "response": "You're welcome! It takes courage to reach out for support, and I'm here to listen without judgment. How can I help you today?",
+        "emotions": {
+            "joy": 0.9409946799278259
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:01:02.336130",
+        "user_input": "What do I do when a friend is depressed?",
+        "response": "That's a caring and supportive question! When a friend is struggling with depression, it's essential to approach them with empathy and understanding. Listen to them without judgment, and validate their feelings by acknowledging that their emotions are real. You can also encourage them to seek professional help and offer to help them find resources or accompany them to appointments.",
+        "emotions": {
+            "sadness": 0.8757092356681824
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:03:48.578712",
+        "user_input": "Hi there, good morning.",
+        "response": "Good morning! I'm so glad you reached out to chat. How are you feeling today? Is there anything on your mind that you'd like to talk about?",
+        "emotions": {
+            "joy": 0.7392753958702087
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:04:09.924158",
+        "user_input": "No, I'm good.",
+        "response": "It can be tough to open up sometimes. If you're not ready to talk, that's okay. I'll be here when you are.",
+        "emotions": {
+            "joy": 0.9879312515258789
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:04:19.562879",
+        "user_input": "Thank you.",
+        "response": "You're welcome! It takes a lot of courage to reach out for support. I'm here to listen and offer help in any way I can. How are you feeling today?",
+        "emotions": {
+            "joy": 0.9409946799278259
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:05:46.986698",
+        "user_input": "Blow my mind.",
+        "response": "It sounds like you're feeling a bit adventurous and open to new ideas! Remember that your mind is capable of incredible things, and it's okay to take a step back, breathe, and let your thoughts unfold. Sometimes, all it takes is a slight shift in perspective to unlock new insights and possibilities. What would you like to explore or discover today?",
+        "emotions": {
+            "anger": 0.8836908936500549
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:15:21.697008",
+        "user_input": "Hello there, good morning.",
+        "response": "Good morning! I'm so glad you're taking a moment to chat with me. How are you feeling today?",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:15:38.859445",
+        "user_input": "Very well, thank you.",
+        "response": "You're welcome! It takes a lot of courage to reach out for support. I'm here to listen and offer guidance whenever you're ready to talk about what's on your mind. How are you feeling today?",
+        "emotions": {
+            "joy": 0.9733973741531372
+        }
+    },
+    {
+        "timestamp": "2025-06-04T16:38:45.185731",
+        "user_input": "Hello there, good morning.",
+        "response": "Good morning! It's lovely to connect with you. How are you feeling today? I'm here to listen and offer support if you need it.",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
     }
 ]
