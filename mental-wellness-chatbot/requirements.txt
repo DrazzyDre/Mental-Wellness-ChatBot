@@ -9,7 +9,5 @@ plotly
 streamlit
 numpy
 scikit-learn
-logging
-vaderSentiment
-hf_xet
+vaderSentiment==3.3.2
 requests
