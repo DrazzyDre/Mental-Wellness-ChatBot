@@ -109,9 +109,7 @@ python src/chatbot.py
 
 Below is an example of the chatbot interface:
 
-![Chatbot Screenshot](screenshots/chatbot_ui_example.png)
-
-*If you don't see the image, ensure you have a `screenshots/chatbot_ui_example.png` file in your repo. Replace with your own screenshot if needed.*
+![Chatbot Screenshot](mental-wellness-chatbot/screenshots/chatbot_ui_example.png)
 
 ---
 
