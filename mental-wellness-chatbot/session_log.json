@@ -5806,5 +5806,13 @@
         "emotions": {
             "joy": 0.6437158584594727
         }
+    },
+    {
+        "timestamp": "2025-06-25T11:11:46.845780",
+        "user_input": "Hello there, good morning.",
+        "response": "Sorry, I'm having trouble responding right now. Please try again later.",
+        "emotions": {
+            "joy": 0.6437158584594727
+        }
     }
 ]
