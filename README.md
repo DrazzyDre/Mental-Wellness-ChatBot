@@ -117,7 +117,7 @@ Below is an example of the chatbot interface:
 
 
 You can try out the app here:  
-👉 [Launch the App](https://bank-app-atm.streamlit.app/)
+👉 [Launch the App](https://mental-wellness-chatbot.streamlit.app/)
 
 ---
 
